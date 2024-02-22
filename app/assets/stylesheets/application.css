@@ -13,3 +13,24 @@
  *= require_tree .
  *= require_self
  */
+
+ .single-flat{
+  height: 23rem;
+  width: 25rem;
+  border: 1px solid rgb(219, 215, 215);
+  box-shadow: 2px 2px 2px rgb(183, 180, 180);
+  padding:1.5rem;
+ }
+
+ .icons{
+  font-size: 2rem;
+ }
+
+ .link{
+  text-decoration: none;
+  font-size: 1.5rem;
+ }
+
+ .texts{
+  background-color: beige;
+ }
